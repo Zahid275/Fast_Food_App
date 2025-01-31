@@ -1,21 +1,15 @@
-# fast_food_app
 
-A new Flutter project.
+# 🍔 Fast Food App  
+Fast Food App is a beautifully designed Flutter application that provides a smooth and interactive experience for browsing, selecting, and managing fast food items. Built with Provider for state management, the app allows users to add items to their cart, mark favorites, and remove them effortlessly.  
 
-## Getting Started
+## ✨ Features  
+- 📌 **Attractive UI** – A modern and user-friendly design  
+- 🛒 **Cart Management** – Add and remove food items from the cart  
+- ❤️ **Favorites List** – Save favorite food items for quick access  
+- 🔄 **Smooth Interactions** – Seamless state updates with Provider  
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-**Screens of Application**
+##  📱 Screeshots:
 
 ![Intro Page](screenshots/screens1.png)
 #
